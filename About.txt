@@ -1,0 +1,7 @@
+Name: Janardhan
+SUC CODE:2352320022
+Class: BCA-A
+
+About GITHUB class:
+Today I learn how to create a folder in GitHub.
+I can easily add my file in the GitHub.
